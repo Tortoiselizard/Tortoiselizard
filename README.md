@@ -20,7 +20,7 @@ Las principales tencologías que manejo son:
 También manejo otras herramientas de gestión de versiones, como git y github.
 
 # ¿Cómo contactarme?
-Como dije antes, si necesitas ayuda o alguien que le guste esa pantalla negra con código, puedes comunicarte conmigo por:
+Como dije antes, si necesitas ayuda o buscas a alguien que le guste esa pantalla negra con código, puedes comunicarte conmigo por:
 
 * troy00pernia@gmail.com
 * LinkedIn
