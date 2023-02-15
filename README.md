@@ -1,4 +1,4 @@
-# TroyPernia
+# Troy Pernia
 Hola, Soy Troy. También conocido como Tortoiselizar en GitHub
 
 # ¿Quién soy?
