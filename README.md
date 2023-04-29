@@ -2,7 +2,7 @@
 Hola, Soy Troy. También conocido como Tortoiselizar en GitHub.
 
 # ¿Quién soy?
-Soy un apacionado a la tecnología, salud y videojuegos. Además soy estudiante de Ingeniería Mecánica y Programador Fullstack que disfruta resolver problemas numéricos y  de lógica, por lo que puedo trabajar en el front-end o back-end sin ningún problema. Si necesitas a alguien que te ayude a mejorar procesos o resolver problemas de esta índole me gustaría ayudarte.
+Soy un apasionado a la tecnología, salud y videojuegos. Además soy estudiante de Ingeniería Mecánica y Desarrollador Web Full Stack que disfruta resolver problemas numéricos y  de lógica, por lo que puedo trabajar en el front-end o back-end sin ningún problema. Si necesitas a alguien que te ayude a mejorar procesos o resolver problemas de esta índole me gustaría ayudarte.
 
 # ¿Qué hago?
 Como desarrollador Jr busco aprender nuevas tecnologías y técnicas de código para optimizar procesos. También me gusta crear nuevas aplicaciones web que solucionen problemas del mundo real y así hacernos la vida más fácil.
