@@ -24,3 +24,5 @@ Si necesitas ayuda para crear una nueva aplicación web o mejorarla, puedes comu
 
 * troy00pernia@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/troy-dj-pernia/)
+
+esto ya lo habia editado
