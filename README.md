@@ -24,3 +24,6 @@ Si necesitas ayuda para crear una nueva aplicación web o mejorarla, puedes comu
 
 * troy00pernia@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/troy-dj-pernia/)
+
+# ¿Que proyectos he hecho o he colaborado?
+Puedes ver un resumen de mis proyectos en mi portafolio
