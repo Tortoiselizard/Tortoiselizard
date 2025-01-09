@@ -5,13 +5,13 @@
 </p>
 
 # ¿Quién soy?
-Soy un apasionado a la tecnología, salud y videojuegos. Además soy estudiante de Ingeniería Mecánica y Desarrollador Web Full Stack que disfruta resolver problemas numéricos y  de lógica, por lo que puedo trabajar en el front-end o back-end sin ningún problema. Si necesitas a alguien que te ayude a mejorar procesos o resolver problemas de esta índole me gustaría ayudarte.
+Soy un apasionado del mundo de la tecnología y los videojuegos, con experiencia como Desarrollador Web Full Stack. Me encanta crear herramientas y aplicaciones que resuelvan problemas de la vida real y mejoren la calidad de vida de las personas. Disfruto enfrentar desafíos lógicos y proponer soluciones eficientes y escalables.
 
 # ¿Qué hago?
-Como desarrollador Jr busco aprender nuevas tecnologías y técnicas de código para optimizar procesos. También me gusta crear nuevas aplicaciones web que solucionen problemas del mundo real y así hacernos la vida más fácil.
+Como desarrollador, estoy comprometido con aprender nuevas tecnologías y explorar las mejores prácticas para optimizar procesos y crear aplicaciones web únicas. Mi enfoque está en construir soluciones innovadoras que combinen funcionalidad y una excelente experiencia de usuario.
 
 # ¿A donde me dirijo?
-Mi gran sueño es ayudar a las personas en los 3 aspectos de la vida que son más importantes para mi: salud, aprender y divertirse. Es por esto que busco generar impacto en estas áreas usando la programación como vehículo para desarrollar nuevas herramientas que contribuyan a estas 3 grandes industrias.
+Mi visión es generar un impacto positivo a través de la programación, contribuyendo a las áreas que me apasionan: tecnología, aprendizaje y entretenimiento. Aspiro a crear herramientas que impulsen estas industrias, ayudando a las personas a aprender, resolver problemas y disfrutar del proceso.
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías</b>
 Las principales tencologías que manejo son:
@@ -20,10 +20,10 @@ Las principales tencologías que manejo son:
 
 * Para el Back-end: Node.js, Express, Sequelize, PostgreSQL
 
-También manejo otras herramientas de gestión de versiones, como git y github.
+También cuento con experiencia en herramientas de gestión de versiones como Git y GitHub.
 
 # ¿Cómo contactarme?
-Si necesitas ayuda para crear una nueva aplicación web o mejorarla, puedes comunicarte conmigo por:
+Si necesitas ayuda para crear una nueva aplicación web o mejorarla, no dudes en contactarme:
 
 * troy00pernia@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/troy-dj-pernia/)
