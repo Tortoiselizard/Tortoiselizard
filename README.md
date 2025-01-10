@@ -16,14 +16,38 @@ Mi visión es generar un impacto positivo a través de la programación, contrib
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías</b>
 Las principales tencologías que manejo son:
 
-* Para el Front-end: JavaScript, React, Next.js, Redux
+* Para el Front-end:
 
-* Para el Back-end: Node.js, Express, Sequelize, PostgreSQL
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,mui" />
+  </a>
+</p>
+
+* Para el Back-end:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,postgres" />
+  </a>
+</p>
+
+* Otros:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,obsidian" />
+  </a>
+</p>
 
 También cuento con experiencia en herramientas de gestión de versiones como Git y GitHub.
 
 # ¿Cómo contactarme?
 Si necesitas ayuda para crear una nueva aplicación web o mejorarla, no dudes en contactarme:
 
-* troy00pernia@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/troy-dj-pernia/)
+<!--icons and links-->
+<p align="center">
+  <a href="mailto:troy00pernia@gmail.com"><img align="center" src="https://static-00.iconduck.com/assets.00/gmail-icon-512x512-qp7vijfd.png" alt="gmail" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/troy-dj-pernia/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/4096/4096186.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://portafolio-front-three.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/10526/10526361.png" alt="portafolio" height="50" width="50" /></a>  
+</p>
