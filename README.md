@@ -10,4 +10,4 @@ Construyo y optimizo plataformas de **EdTech** y **e-commerce** con el ecosistem
 
 **Stack:** TypeScript · JavaScript · React · Next.js · Redux · Node · Express · NestJS · TypeORM · Sequelize · PostgreSQL · MySQL · MercadoPago · Stripe · Podman · GitHub Actions · Git
 
-📫 troy00pernia@gmail.com · [LinkedIn](https://www.linkedin.com/in/troy-dj-pernia/) · [Portafolio](https://portafolio-front-three.vercel.app/)
+📫 troy00pernia@gmail.com · [LinkedIn](https://www.linkedin.com/in/troy-dj-pernia/) · [Portafolio](https://troypernia.vercel.app/)
