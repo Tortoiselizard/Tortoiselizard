@@ -1,6 +1,6 @@
 ## Hola, soy Troy 👋 — Full Stack Developer
 
-Construyo y optimizo plataformas de **EdTech** y **e-commerce** con el ecosistema **TypeScript**: React · Next.js · Redux en el front, y Node · Express · NestJS · TypeORM · PostgreSQL en el back.
+Construyo y optimizo plataformas de **EdTech** y **e-commerce** con: React · Next.js · Redux en el front, y Node · Express · NestJS · TypeORM · PostgreSQL en el back.
 
 - 2+ años de experiencia remota para equipos internacionales.
 - Contribuí a llevar una plataforma de aprendizaje de idiomas hacia su MVP, estabilizando utilidades heredadas y sumando features.
